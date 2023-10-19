@@ -21,3 +21,4 @@ public class CandyCollection : MonoBehaviour
     }
 
 }
+
